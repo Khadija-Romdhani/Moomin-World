@@ -2,7 +2,7 @@
 
 ## Why the moomins?
 
-They seem fit for a passion project `html`
+They seem fit for a passion `html` project
 
 ---
 ## So far what I've done 
